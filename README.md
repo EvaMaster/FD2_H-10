@@ -1,1 +1,2 @@
-# FD2_H-10
+npm install
+gulp build
