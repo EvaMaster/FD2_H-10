@@ -1,0 +1,163 @@
+{
+    "singers":[
+    {
+        "title": "Lose Yourself",
+        "name":"Eminem"
+    },
+    {
+        "title": "Stan",
+        "name":"Eminem"
+    },
+    {
+        "title": "Not Afraid",
+        "name":"Eminem"
+    },
+    {
+        "title": "Love The Way You Lie",
+        "name":"Eminem"
+    },
+    {
+        "title": "Humanity",
+        "name":"Scorpions"
+    },
+    {
+        "title": "Send me an ange",
+        "name":"Scorpions"
+    },
+    {
+        "title": "Still loving you",
+        "name":"Scorpions"
+    },
+    {
+        "title": "Wind of change",
+        "name":"Scorpions"
+    },
+    {
+        "title": "Why does my heart feel so bad",
+        "name":"Moby"
+    },
+    {
+        "title": "Natural blues",
+        "name":"Moby"
+    },
+    {
+        "title": "Lift me up",
+        "name":"Moby"
+    },
+    {
+        "title": "Flower",
+        "name":"Moby"
+    },
+    {
+        "title": "Bagatelle a minor",
+        "name":"Ludwig Van Beethoven"
+    },
+    {
+        "title": "Beethoven 5 secrets",
+        "name":"Ludwig Van Beethoven"
+    },
+    {
+        "title": "Moonlight sonata",
+        "name":"Ludwig Van Beethoven"
+    },
+    {
+        "title": "Ode to joy",
+        "name":"Ludwig Van Beethoven"
+    },
+    {
+        "title": "Breathe",
+        "name":"The prodigy"
+    },
+    {
+        "title": "Omen",
+        "name":"The prodigy"
+    },
+    {
+        "title": "Smack my bitch up",
+        "name":"The prodigy"
+    },
+    {
+        "title": "Voodoo people",
+        "name":"The prodigy"
+    },
+    {
+        "title": "Ayo technology",
+        "name":"50 cents"
+    },
+    {
+        "title": "Сandy shop",
+        "name":"50 cents"
+    },
+    {
+        "title": "In da club",
+        "name":"50 cents"
+    },
+    {
+        "title": "p i m p",
+        "name":"50 cents"
+    },
+    {
+        "title": "Believer",
+        "name":"Imagine Dragons"
+    },
+    {
+        "title": "Natural",
+        "name":"Imagine Dragons"
+    },
+    {
+        "title": "Radioactive",
+        "name":"Imagine Dragons"
+    },
+    {
+        "title": "Thunder",
+        "name":"Imagine Dragons"
+    },
+    {
+        "title": "Bach street prelude",
+        "name":"Johann Bach"
+    },
+    {
+        "title": "Suite in d major",
+        "name":"Johann Bach"
+    },
+    {
+        "title": "The cello song",
+        "name":"Johann Bach"
+    },
+    {
+        "title": "Toccata et fugue",
+        "name":"Johann Bach"
+    },
+    {
+        "title": "Go down moses",
+        "name":"Louis Armstrong"
+    },
+    {
+        "title": "Hello dolly",
+        "name":"Louis Armstrong"
+    },
+    {
+        "title": "La vie en rose",
+        "name":"Louis Armstrong"
+    },
+    {
+        "title": "Wonderful world",
+        "name":"Louis Armstrong"
+    },
+    {
+        "title": "Jingle bells",
+        "name":"Frank Sinatra"
+    },
+    {
+        "title": "Let it snow",
+        "name":"Frank Sinatra"
+    },
+    {
+        "title": "My way",
+        "name":"Frank Sinatra"
+    },
+    {
+        "title": "Strangers in the night",
+        "name":"Frank Sinatra"
+    }]
+}

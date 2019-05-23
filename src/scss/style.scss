@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    background-color: burlywood;
+    &-left{
+        width: 49%;
+        background-color: chocolate;
+        &-list{
+            list-style: none;
+        }
+    }
+    &-right{
+        width: 49%;
+        background-color:cornsilk;
+        &-list{
+            list-style: lower-alpha;
+        }
+    }
+}
