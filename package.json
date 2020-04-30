@@ -17,7 +17,7 @@
     "gulp-minify-css": "^1.2.4",
     "gulp-sass": "^4.0.2",
     "gulp-typescript": "^5.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.11",
     "typescript": "^3.4.5"
   },
